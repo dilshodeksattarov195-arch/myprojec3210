@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcync",
+        "uuid": 1540800,
+        "checksum": "bdg96"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
